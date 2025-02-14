@@ -8,7 +8,7 @@ categories = {
     "SPORT" :['BASKETBALL', 'HOCKEY', 'TENNIS', 'BADMINTON', 'LACROSSE', 'WRESTLING', 'SOCCER', 'VOLLEYBALL', 'BASEBALL']
 }
 
-#
+# Determines the category chosen for the game
 def choose_category(categories):
     while True:
         #Asking player for what category they want
